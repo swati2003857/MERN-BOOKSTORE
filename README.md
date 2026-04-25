@@ -17,7 +17,7 @@ This is a full-stack Bookstore web application built using the MERN stack (Mongo
 - Frontend: React.js
 - Backend: Node.js, Express.js
 - Database: MongoDB
-- Others: Axios, JWT, Bootstrap / Tailwind (if used)
+- Others: Axios, JWT, Bootstrap / Tailwind
 
 ## 📂 Project Structure
 bookstore/
